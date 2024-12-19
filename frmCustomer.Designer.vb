@@ -90,7 +90,7 @@ Partial Class frmCustomer
         Me.GroupBox1.Size = New System.Drawing.Size(1053, 688)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "Клинеты"
+        Me.GroupBox1.Text = "Клиенты"
         '
         'Label7
         '
